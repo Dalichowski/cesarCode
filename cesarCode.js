@@ -71,7 +71,7 @@ function rot13(str) {
 
     var traductedSentence = phraseExit.join('');
 
-    console.log(traductedSentence)
+    //console.log(traductedSentence)
     return traductedSentence
 
 }  
